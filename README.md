@@ -15,7 +15,7 @@
   <h3 align="center">Afip.py</h3>
 
   <p align="center">
-    Librería para conectarse a los Web Services de AFIP en Python
+    Librería para conectarse a los Web Services de AFIP
     <br />
     <a href="https://docs.afipsdk.com"><strong>Explorar documentación »</strong></a>
     <br />
